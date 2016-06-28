@@ -1,5 +1,5 @@
 ## letsencrypt-cpanel
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z22KP32ZCH8D6)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q7T2MY7WAQTPU)
 
 This is a cPanel/WHM plugin for the [Let's Encrypt](https://letsencrypt.org/) client. This plugin uses Perl and the WHM API, and requires a server running cPanel and WHM on it.
 
@@ -16,7 +16,7 @@ Version 1.4
 ### Installation
 
 ```
-/usr/local/cpanel/3rdparty/bin/git clone https://github.com/Prajithp/letsencrypt-cpanel.git
+/usr/local/cpanel/3rdparty/bin/git clone https://github.com/TwistedStudiosLLC/letsencrypt-cpanel.git
 cd letsencrypt-cpanel
 ./install.sh
 ```
